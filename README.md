@@ -1,35 +1,5 @@
 # Springboot_Profiles
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Spring Boot Profiles</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f9f9f9;
-      padding: 20px;
-      color: #333;
-    }
-    code, pre {
-      background-color: #eee;
-      padding: 5px 10px;
-      border-radius: 4px;
-      font-family: Consolas, monospace;
-    }
-    h1 {
-      color: #2c3e50;
-    }
-    h2 {
-      color: #34495e;
-    }
-    ul {
-      margin-top: 0;
-    }
-  </style>
-</head>
-<body>
+
 
   <h1>Spring Boot Profiles</h1>
 
